@@ -28,5 +28,8 @@ ___
 ###### 폼나는 고양이. 이 고양이는 여유를 아는 것 같음...
 ![튀르키예 고양이.](https://mblogthumb-phinf.pstatic.net/20160211_140/sarangn12_1455170064019DBHad_PNG/%B0%ED%BE%E7%C0%CC2.PNG?type=w420 "This is a sample image.")
 
+## 스타일 구성
+- style.md 추가
+
 ---
 - 소스트리로 깃 다루는 실습 중임
