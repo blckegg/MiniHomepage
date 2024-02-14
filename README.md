@@ -2,7 +2,7 @@
 
 ## *To be a Backend Developer*
 
-# blckegg: 까만 달걀.
+# #blckegg: 까만 달걀.
 ## 개발자가 되고 싶다.
 
 #### **빠른 취직 기원**
@@ -14,6 +14,8 @@ ___
 
 * 천천히 걸어다니기
 * 소설책 읽기
+* 달걀말이
+
 
 ### 희망사항
 
@@ -23,5 +25,5 @@ ___
 
 
 ## Images
-
+###### 폼나는 고양이. 이 고양이는 여유를 아는 것 같음...
 ![튀르키예 고양이.](https://mblogthumb-phinf.pstatic.net/20160211_140/sarangn12_1455170064019DBHad_PNG/%B0%ED%BE%E7%C0%CC2.PNG?type=w420 "This is a sample image.")
