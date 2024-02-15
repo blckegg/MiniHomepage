@@ -12,3 +12,6 @@
 ## 내비게이션2 추가
 - navigation.md 파일 수정
 
+## 푸터 추가
+- footer.md 파일 추가
+
